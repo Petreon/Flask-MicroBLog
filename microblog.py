@@ -1,0 +1,1 @@
+from app import app ## this import the variable app that instantiate flask from the app folder/package
